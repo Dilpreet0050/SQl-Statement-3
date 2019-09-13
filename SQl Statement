@@ -1,19 +1,19 @@
-insert into students (studentid,studentlastname,studentfirstname,programgroupname,term)
+insert into programgroup (pgid,programgroupname,sectionnumber,classid)
 
-values ('759868','Garcha','Dilpreet','CPCT','2019');
+values ('509','CPCT','A237','CD235');
 
-insert into students (studentid,studentlastname,studentfirstname,programgroupname,term)
+insert into programgroup (pgid,programgroupname,sectionnumber,classid)
 
-values ('759869','Gill','Diljit','CPCT','2019F');
+values ('510','CPCT','A238','CD236');
 
-insert into students (studentid,studentlastname,studentfirstname,programgroupname,term)
+insert into programgroup (pgid,programgroupname,sectionnumber,classid)
 
-values ('759870','Grewal','Jaspreet','CPCT','2019F');
+values ('511','CPCT','A239','CD237');
 
-insert into students (studentid,studentlastname,studentfirstname,programgroupname,term)
+insert into programgroup (pgid,programgroupname,sectionnumber,classid)
 
-values ('759871','Mangat','Harman','CPCT','2019F');
+values ('512','CPCT','A240','CD238');
 
-insert into students (studentid,studentlastname,studentfirstname,programgroupname,term)
+insert into programgroup (pgid,programgroupname,sectionnumber,classid)
 
-values ('759872','Jhajj','Rashpal','CPCT','2019F');
+values ('513','CPCT','A241','CD239');
