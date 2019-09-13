@@ -1,0 +1,19 @@
+insert into students (studentid,studentlastname,studentfirstname,programgroupname,term)
+
+values ('759868','Garcha','Dilpreet','CPCT','2019');
+
+insert into students (studentid,studentlastname,studentfirstname,programgroupname,term)
+
+values ('759869','Gill','Diljit','CPCT','2019F');
+
+insert into students (studentid,studentlastname,studentfirstname,programgroupname,term)
+
+values ('759870','Grewal','Jaspreet','CPCT','2019F');
+
+insert into students (studentid,studentlastname,studentfirstname,programgroupname,term)
+
+values ('759871','Mangat','Harman','CPCT','2019F');
+
+insert into students (studentid,studentlastname,studentfirstname,programgroupname,term)
+
+values ('759872','Jhajj','Rashpal','CPCT','2019F');
